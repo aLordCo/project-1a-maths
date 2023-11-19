@@ -1,0 +1,23 @@
+{
+  "name": "project-1a-maths",
+  "version": "1.0.0",
+  "description": "Basic math project to learn NodeJs and load it to NPM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aLordCo/project-1a-maths.git"
+  },
+  "keywords": [
+    "math",
+    "basic"
+  ],
+  "author": "Alexander Ortiz <alex.ortiz.arevalo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aLordCo/project-1a-maths/issues"
+  },
+  "homepage": "https://github.com/aLordCo/project-1a-maths#readme"
+}
